@@ -1,0 +1,27 @@
+{
+  "name": "404-rest-api-project",
+  "version": "1.0.0",
+  "description": "anna made me do this",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AldridgeDev/404-rest-api-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AldridgeDev/404-rest-api-project/issues"
+  },
+  "homepage": "https://github.com/AldridgeDev/404-rest-api-project#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "nodemon": "^1.19.0"
+  }
+}
